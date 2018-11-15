@@ -1,4 +1,4 @@
-# ambiente_php_dcoker_win10
+# ambiente_php_docker_win10
 Boilerplate para criação de ambiente de desenvolvimento php com docker no windows 10
 
 1 - Baixe o docker para o windows 10. 
