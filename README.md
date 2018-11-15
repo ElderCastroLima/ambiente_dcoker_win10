@@ -7,7 +7,7 @@ https://store.docker.com/editions/community/docker-ce-desktop-windows
 
 2 - Depois de instalado execute o comando docker -v.
 
-se exibir a versão do docker corretamente a instalação foi concluida com sucesso.
+Se exibir a versão do docker corretamente a instalação foi concluida com sucesso.
 
 3 - Faça o clone desse repositório para a sua máquina
 
