@@ -23,6 +23,6 @@ nas proximas vez que você for subir o ambimente será muito rápido pq as image
 
 8 - Pronto seu ambiente de desenvolvimento php com docker no windows 10 já está pronto.
  
-
+Lembrando que todas as configurações para subir seu ambiente de desenvolvimento ficam no docker-compse.yml e você pode editar como melhor quiser.
 
 
