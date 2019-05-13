@@ -11,8 +11,7 @@ Se exibir a versão do docker corretamente a instalação foi concluida com suce
 
 3 - Faça o clone desse repositório para a sua máquina
 
-4 - Utilizando o cmd ou o seu prompt preferido(eu uso o git bash) navegue para dentro da pasta que você clonou o projeto.
-Certifique-se que o arquivo docker-compose.yml está na pasta.
+4 - Utilizando o cmd ou o seu prompt preferido(eu uso o git bash) navegue para dentro da pasta projetos (Que está dentro da pasta ambiente_docker_win10), certifique-se que o arquivo docker-compose.yml está na pasta.
 
 5 -  Execute o comando docker-compose up.
 
