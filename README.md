@@ -17,7 +17,7 @@ Certifique-se que o arquivo docker-compose.yml está na pasta.
 5 -  Execute o comando docker-compose up.
 
 6 - A primeira vez que você executar esse comando vai demorar um pouco porque será baixado para o docker as imagens do php e nginx.
-nas proximas vez que você for subir o ambimente será muito rápido pq as imagens já estão no docker.
+nas proximas vezes que você for subir o ambimente será muito rápido pq as imagens já estão no docker.
 
 7 - Ao finalizar basta acessar no seu browser localhost:80. Se tudo deu certo você deverá ver o informações da versão do php.
 
